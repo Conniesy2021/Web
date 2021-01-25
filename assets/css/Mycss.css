@@ -1,0 +1,17 @@
+body {
+    padding-top: 20px !important;
+    background:url('../images/circles-light.png');
+}
+
+.myImg {
+    height: 500px;
+}
+.addLink {
+    text-decoration: none;
+}
+h3{
+    color: rgba(0,0,0,.7);
+}
+h5{
+    color: gray;
+}
